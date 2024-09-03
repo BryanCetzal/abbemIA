@@ -1,5 +1,5 @@
 # abbemIA
 Proyecto de Innovación tecnológica
-##Análisis FODA
-##Requisitos de software
+## Análisis FODA
+## Requisitos de software
 
